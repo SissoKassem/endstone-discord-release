@@ -1,6 +1,6 @@
 # Discord for Endstone
 
-A Discord integration plugin for Endstone servers.
+A Discord integration plugin for Endstone servers. 
 
 ## Features
 - [x] In-game chat and Discord chat integration.
