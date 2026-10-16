@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "endstone-discord"
+name = "endstone_discord"
 version = "0.2.0"
 dependencies = [
     "discord.py"
